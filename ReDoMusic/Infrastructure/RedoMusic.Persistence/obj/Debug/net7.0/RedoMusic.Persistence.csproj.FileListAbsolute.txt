@@ -1,0 +1,17 @@
+C:\Users\livan\source\repos\ReDoMusic\Infrastructure\RedoMusic.Persistence\bin\Debug\net7.0\RedoMusic.Persistence.deps.json
+C:\Users\livan\source\repos\ReDoMusic\Infrastructure\RedoMusic.Persistence\bin\Debug\net7.0\RedoMusic.Persistence.dll
+C:\Users\livan\source\repos\ReDoMusic\Infrastructure\RedoMusic.Persistence\bin\Debug\net7.0\RedoMusic.Persistence.pdb
+C:\Users\livan\source\repos\ReDoMusic\Infrastructure\RedoMusic.Persistence\bin\Debug\net7.0\ReDoMusic.Domain.dll
+C:\Users\livan\source\repos\ReDoMusic\Infrastructure\RedoMusic.Persistence\bin\Debug\net7.0\ReDoMusic.Domain.pdb
+C:\Users\livan\source\repos\ReDoMusic\Infrastructure\RedoMusic.Persistence\obj\Debug\net7.0\RedoMusic.Persistence.csproj.AssemblyReference.cache
+C:\Users\livan\source\repos\ReDoMusic\Infrastructure\RedoMusic.Persistence\obj\Debug\net7.0\RedoMusic.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\livan\source\repos\ReDoMusic\Infrastructure\RedoMusic.Persistence\obj\Debug\net7.0\RedoMusic.Persistence.AssemblyInfoInputs.cache
+C:\Users\livan\source\repos\ReDoMusic\Infrastructure\RedoMusic.Persistence\obj\Debug\net7.0\RedoMusic.Persistence.AssemblyInfo.cs
+C:\Users\livan\source\repos\ReDoMusic\Infrastructure\RedoMusic.Persistence\obj\Debug\net7.0\RedoMusic.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\livan\source\repos\ReDoMusic\Infrastructure\RedoMusic.Persistence\obj\Debug\net7.0\RedoMusic.Persistence.csproj.CopyComplete
+C:\Users\livan\source\repos\ReDoMusic\Infrastructure\RedoMusic.Persistence\obj\Debug\net7.0\RedoMusic.Persistence.dll
+C:\Users\livan\source\repos\ReDoMusic\Infrastructure\RedoMusic.Persistence\obj\Debug\net7.0\refint\RedoMusic.Persistence.dll
+C:\Users\livan\source\repos\ReDoMusic\Infrastructure\RedoMusic.Persistence\obj\Debug\net7.0\RedoMusic.Persistence.pdb
+C:\Users\livan\source\repos\ReDoMusic\Infrastructure\RedoMusic.Persistence\obj\Debug\net7.0\ref\RedoMusic.Persistence.dll
+C:\Users\livan\source\repos\ReDoMusic\Infrastructure\RedoMusic.Persistence\bin\Debug\net7.0\RedoMusic.Persistence.runtimeconfig.json
+C:\Users\livan\source\repos\ReDoMusic\Infrastructure\RedoMusic.Persistence\obj\Debug\net7.0\RedoMusic.Persistence.genruntimeconfig.cache
